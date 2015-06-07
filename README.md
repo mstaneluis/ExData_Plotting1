@@ -1,3 +1,4 @@
+## From R.Peng, Defines the scope fo the project.
 ## Introduction
 
 This assignment uses data from
@@ -112,3 +113,7 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Results explainer
+* There is 1 file per plot (labeled Plot1.R - Plot4.R) in the repo root.
+* Each plot is stored in the figures subdirectory (Plot1.png - Plot4.png).
+* Data was stored in the data subdirectory.
